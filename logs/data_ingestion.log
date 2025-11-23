@@ -1,0 +1,7 @@
+2025-11-22 19:06:48,449 - data_ingestion - ERROR - File not found: params.yaml
+2025-11-22 19:06:48,450 - data_ingestion - ERROR - Failed to complete the data ingestion process: [Errno 2] No such file or directory: 'params.yaml'
+2025-11-22 19:07:47,389 - data_ingestion - ERROR - Failed to complete the data ingestion process: name 'load_params' is not defined
+2025-11-22 19:14:13,838 - data_ingestion - ERROR - Failed to complete the data ingestion process: name 'load_params' is not defined
+2025-11-22 19:14:27,681 - data_ingestion - DEBUG - Data loaded from https://raw.githubusercontent.com/vikashishere/YT-MLOPS-Complete-ML-Pipeline/refs/heads/main/experiments/spam.csv
+2025-11-22 19:14:27,723 - data_ingestion - DEBUG - Data preprocessing completed
+2025-11-22 19:14:27,774 - data_ingestion - DEBUG - Train and test data saved to ./data\raw

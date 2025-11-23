@@ -1,0 +1,33 @@
+2025-11-23 11:42:09,819 - model_evaluation - ERROR - Failed to complete the model evaluation process: name 'load_params' is not defined
+2025-11-23 11:43:25,927 - model_evaluation - DEBUG - Model loaded from ./models/model.pkl
+2025-11-23 11:43:25,951 - model_evaluation - DEBUG - Data loaded from ./data/processed/test_tfidf.csv
+2025-11-23 11:43:25,992 - model_evaluation - ERROR - Error during model evaluation: pos_label=1 is not a valid label. It should be one of ['ham', 'spam']
+2025-11-23 11:43:25,993 - model_evaluation - ERROR - Failed to complete the model evaluation process: pos_label=1 is not a valid label. It should be one of ['ham', 'spam']
+2025-11-23 11:53:09,293 - model_evaluation - DEBUG - Model loaded from ./models/model.pkl
+2025-11-23 11:53:09,312 - model_evaluation - DEBUG - Data loaded from ./data/processed/test_tfidf.csv
+2025-11-23 11:53:09,341 - model_evaluation - ERROR - Error during model evaluation: pos_label=1 is not a valid label. It should be one of ['ham', 'spam']
+2025-11-23 11:53:09,341 - model_evaluation - ERROR - Failed to complete the model evaluation process: pos_label=1 is not a valid label. It should be one of ['ham', 'spam']
+2025-11-23 11:57:12,218 - model_evaluation - DEBUG - Model loaded from ./models/model.pkl
+2025-11-23 11:57:12,239 - model_evaluation - DEBUG - Data loaded from ./data/processed/test_tfidf.csv
+2025-11-23 11:57:12,310 - model_evaluation - ERROR - Error during model evaluation: Labels in y_true and y_pred should be of the same type. Got y_true=[0 1] and y_pred=['ham' 'spam']. Make sure that the predictions provided by the classifier coincides with the true labels.
+2025-11-23 11:57:12,311 - model_evaluation - ERROR - Failed to complete the model evaluation process: Labels in y_true and y_pred should be of the same type. Got y_true=[0 1] and y_pred=['ham' 'spam']. Make sure that the predictions provided by the classifier coincides with the true labels.
+2025-11-23 11:58:10,608 - model_evaluation - DEBUG - Model loaded from ./models/model.pkl
+2025-11-23 11:58:10,628 - model_evaluation - DEBUG - Data loaded from ./data/processed/test_tfidf.csv
+2025-11-23 11:58:10,767 - model_evaluation - ERROR - Error during model evaluation: pos_label=1 is not a valid label. It should be one of ['ham', 'spam']
+2025-11-23 11:58:10,768 - model_evaluation - ERROR - Failed to complete the model evaluation process: pos_label=1 is not a valid label. It should be one of ['ham', 'spam']
+2025-11-23 11:59:04,047 - model_evaluation - DEBUG - Model loaded from ./models/model.pkl
+2025-11-23 11:59:04,061 - model_evaluation - DEBUG - Data loaded from ./data/processed/test_tfidf.csv
+2025-11-23 11:59:04,198 - model_evaluation - ERROR - Error during model evaluation: Labels in y_true and y_pred should be of the same type. Got y_true=[0 1] and y_pred=['ham' 'spam']. Make sure that the predictions provided by the classifier coincides with the true labels.
+2025-11-23 11:59:04,200 - model_evaluation - ERROR - Failed to complete the model evaluation process: Labels in y_true and y_pred should be of the same type. Got y_true=[0 1] and y_pred=['ham' 'spam']. Make sure that the predictions provided by the classifier coincides with the true labels.
+2025-11-23 12:02:21,732 - model_evaluation - DEBUG - Model loaded from ./models/model.pkl
+2025-11-23 12:02:21,746 - model_evaluation - DEBUG - Data loaded from ./data/processed/test_tfidf.csv
+2025-11-23 12:02:21,776 - model_evaluation - ERROR - Error during model evaluation: Labels in y_true and y_pred should be of the same type. Got y_true=[0 1] and y_pred=['ham' 'spam']. Make sure that the predictions provided by the classifier coincides with the true labels.
+2025-11-23 12:02:21,776 - model_evaluation - ERROR - Failed to complete the model evaluation process: Labels in y_true and y_pred should be of the same type. Got y_true=[0 1] and y_pred=['ham' 'spam']. Make sure that the predictions provided by the classifier coincides with the true labels.
+2025-11-23 12:04:05,028 - model_evaluation - DEBUG - Model loaded from ./models/model.pkl
+2025-11-23 12:04:05,039 - model_evaluation - DEBUG - Data loaded from ./data/processed/test_tfidf.csv
+2025-11-23 12:04:05,056 - model_evaluation - ERROR - Error during model evaluation: Labels in y_true and y_pred should be of the same type. Got y_true=[0 1] and y_pred=['ham' 'spam']. Make sure that the predictions provided by the classifier coincides with the true labels.
+2025-11-23 12:04:05,057 - model_evaluation - ERROR - Failed to complete the model evaluation process: Labels in y_true and y_pred should be of the same type. Got y_true=[0 1] and y_pred=['ham' 'spam']. Make sure that the predictions provided by the classifier coincides with the true labels.
+2025-11-23 12:05:47,224 - model_evaluation - DEBUG - Model loaded from ./models/model.pkl
+2025-11-23 12:05:47,237 - model_evaluation - DEBUG - Data loaded from ./data/processed/test_tfidf.csv
+2025-11-23 12:05:47,318 - model_evaluation - DEBUG - Model evaluation metrics calculated
+2025-11-23 12:05:47,321 - model_evaluation - DEBUG - Metrics saved to reports/metrics.json

@@ -1,0 +1,16 @@
+2025-11-23 10:55:16,776 - feature_engineering - ERROR - Failed to complete the feature engineering process: name 'load_params' is not defined
+2025-11-23 10:55:50,570 - feature_engineering - ERROR - Unexpected error occurred while loading the data: [Errno 2] No such file or directory: './data/interim/train_processed.csv'
+2025-11-23 10:55:50,571 - feature_engineering - ERROR - Failed to complete the feature engineering process: [Errno 2] No such file or directory: './data/interim/train_processed.csv'
+2025-11-23 10:59:54,235 - feature_engineering - ERROR - Unexpected error occurred while loading the data: [Errno 2] No such file or directory: './data/interim/train_processed.csv'
+2025-11-23 10:59:54,262 - feature_engineering - ERROR - Failed to complete the feature engineering process: [Errno 2] No such file or directory: './data/interim/train_processed.csv'
+2025-11-23 11:02:14,533 - feature_engineering - ERROR - Unexpected error occurred while loading the data: [Errno 2] No such file or directory: './data/interim/train_processed.csv'
+2025-11-23 11:02:14,534 - feature_engineering - ERROR - Failed to complete the feature engineering process: [Errno 2] No such file or directory: './data/interim/train_processed.csv'
+2025-11-23 11:06:29,318 - feature_engineering - ERROR - Unexpected error occurred while loading the data: [Errno 2] No such file or directory: './data/raw/interim/train_processed.csv'
+2025-11-23 11:06:29,319 - feature_engineering - ERROR - Failed to complete the feature engineering process: [Errno 2] No such file or directory: './data/raw/interim/train_processed.csv'
+2025-11-23 11:10:02,099 - feature_engineering - ERROR - Unexpected error occurred while loading the data: [Errno 2] No such file or directory: './data/raw/interim/train_processed.csv'
+2025-11-23 11:10:02,100 - feature_engineering - ERROR - Failed to complete the feature engineering process: [Errno 2] No such file or directory: './data/raw/interim/train_processed.csv'
+2025-11-23 11:12:50,231 - feature_engineering - DEBUG - Data loaded and NaNs filled from ./data/raw/interim/train.csv
+2025-11-23 11:12:50,236 - feature_engineering - DEBUG - Data loaded and NaNs filled from ./data/raw/interim/test.csv
+2025-11-23 11:12:50,402 - feature_engineering - DEBUG - tfidf applied and data transformed
+2025-11-23 11:12:50,580 - feature_engineering - DEBUG - Data saved to ./data\processed\train_tfidf.csv
+2025-11-23 11:12:50,630 - feature_engineering - DEBUG - Data saved to ./data\processed\test_tfidf.csv
