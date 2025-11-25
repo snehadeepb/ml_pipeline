@@ -48,3 +48,773 @@
     - 'E:\\nltk_data'
 **********************************************************************
 
+2025-11-24 20:03:29,960 - data_preprocessing - DEBUG - Data loaded properly
+2025-11-24 20:03:29,964 - data_preprocessing - DEBUG - Starting preprocessing for DataFrame
+2025-11-24 20:03:29,968 - data_preprocessing - DEBUG - Target column encoded
+2025-11-24 20:03:29,988 - data_preprocessing - DEBUG - Duplicates removed
+2025-11-24 20:03:29,994 - data_preprocessing - ERROR - Error during text normalization: 
+**********************************************************************
+  Resource [93mpunkt_tab[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('punkt_tab')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtokenizers/punkt_tab/english/[0m
+
+  Searched in:
+    - 'C:\\Users\\sneha/nltk_data'
+    - 'C:\\Users\\sneha\\anaconda3\\nltk_data'
+    - 'C:\\Users\\sneha\\anaconda3\\share\\nltk_data'
+    - 'C:\\Users\\sneha\\anaconda3\\lib\\nltk_data'
+    - 'C:\\Users\\sneha\\AppData\\Roaming\\nltk_data'
+    - 'C:\\nltk_data'
+    - 'D:\\nltk_data'
+    - 'E:\\nltk_data'
+**********************************************************************
+
+2025-11-24 20:03:29,996 - data_preprocessing - ERROR - Failed to complete the data transformation process: 
+**********************************************************************
+  Resource [93mpunkt_tab[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('punkt_tab')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtokenizers/punkt_tab/english/[0m
+
+  Searched in:
+    - 'C:\\Users\\sneha/nltk_data'
+    - 'C:\\Users\\sneha\\anaconda3\\nltk_data'
+    - 'C:\\Users\\sneha\\anaconda3\\share\\nltk_data'
+    - 'C:\\Users\\sneha\\anaconda3\\lib\\nltk_data'
+    - 'C:\\Users\\sneha\\AppData\\Roaming\\nltk_data'
+    - 'C:\\nltk_data'
+    - 'D:\\nltk_data'
+    - 'E:\\nltk_data'
+**********************************************************************
+
+2025-11-24 20:10:03,953 - data_preprocessing - DEBUG - Data loaded properly
+2025-11-24 20:10:03,954 - data_preprocessing - DEBUG - Starting preprocessing for DataFrame
+2025-11-24 20:10:03,958 - data_preprocessing - DEBUG - Target column encoded
+2025-11-24 20:10:03,965 - data_preprocessing - DEBUG - Duplicates removed
+2025-11-24 20:10:03,970 - data_preprocessing - ERROR - Error during text normalization: 
+**********************************************************************
+  Resource [93mpunkt_tab[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('punkt_tab')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtokenizers/punkt_tab/english/[0m
+
+  Searched in:
+    - 'C:\\Users\\sneha/nltk_data'
+    - 'C:\\Users\\sneha\\anaconda3\\nltk_data'
+    - 'C:\\Users\\sneha\\anaconda3\\share\\nltk_data'
+    - 'C:\\Users\\sneha\\anaconda3\\lib\\nltk_data'
+    - 'C:\\Users\\sneha\\AppData\\Roaming\\nltk_data'
+    - 'C:\\nltk_data'
+    - 'D:\\nltk_data'
+    - 'E:\\nltk_data'
+**********************************************************************
+
+2025-11-24 20:10:03,973 - data_preprocessing - ERROR - Failed to complete the data transformation process: 
+**********************************************************************
+  Resource [93mpunkt_tab[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('punkt_tab')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtokenizers/punkt_tab/english/[0m
+
+  Searched in:
+    - 'C:\\Users\\sneha/nltk_data'
+    - 'C:\\Users\\sneha\\anaconda3\\nltk_data'
+    - 'C:\\Users\\sneha\\anaconda3\\share\\nltk_data'
+    - 'C:\\Users\\sneha\\anaconda3\\lib\\nltk_data'
+    - 'C:\\Users\\sneha\\AppData\\Roaming\\nltk_data'
+    - 'C:\\nltk_data'
+    - 'D:\\nltk_data'
+    - 'E:\\nltk_data'
+**********************************************************************
+
+2025-11-24 20:15:06,962 - data_preprocessing - DEBUG - Data loaded properly
+2025-11-24 20:15:06,963 - data_preprocessing - DEBUG - Starting preprocessing for DataFrame
+2025-11-24 20:15:06,966 - data_preprocessing - DEBUG - Target column encoded
+2025-11-24 20:15:06,970 - data_preprocessing - DEBUG - Duplicates removed
+2025-11-24 20:15:06,974 - data_preprocessing - ERROR - Error during text normalization: 
+**********************************************************************
+  Resource [93mpunkt_tab[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('punkt_tab')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtokenizers/punkt_tab/english/[0m
+
+  Searched in:
+    - 'C:\\Users\\sneha/nltk_data'
+    - 'C:\\Users\\sneha\\anaconda3\\nltk_data'
+    - 'C:\\Users\\sneha\\anaconda3\\share\\nltk_data'
+    - 'C:\\Users\\sneha\\anaconda3\\lib\\nltk_data'
+    - 'C:\\Users\\sneha\\AppData\\Roaming\\nltk_data'
+    - 'C:\\nltk_data'
+    - 'D:\\nltk_data'
+    - 'E:\\nltk_data'
+**********************************************************************
+
+2025-11-24 20:15:06,975 - data_preprocessing - ERROR - Failed to complete the data transformation process: 
+**********************************************************************
+  Resource [93mpunkt_tab[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('punkt_tab')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtokenizers/punkt_tab/english/[0m
+
+  Searched in:
+    - 'C:\\Users\\sneha/nltk_data'
+    - 'C:\\Users\\sneha\\anaconda3\\nltk_data'
+    - 'C:\\Users\\sneha\\anaconda3\\share\\nltk_data'
+    - 'C:\\Users\\sneha\\anaconda3\\lib\\nltk_data'
+    - 'C:\\Users\\sneha\\AppData\\Roaming\\nltk_data'
+    - 'C:\\nltk_data'
+    - 'D:\\nltk_data'
+    - 'E:\\nltk_data'
+**********************************************************************
+
+2025-11-24 20:15:36,990 - data_preprocessing - DEBUG - Data loaded properly
+2025-11-24 20:15:36,992 - data_preprocessing - DEBUG - Starting preprocessing for DataFrame
+2025-11-24 20:15:36,995 - data_preprocessing - DEBUG - Target column encoded
+2025-11-24 20:15:37,001 - data_preprocessing - DEBUG - Duplicates removed
+2025-11-24 20:15:37,004 - data_preprocessing - ERROR - Error during text normalization: 
+**********************************************************************
+  Resource [93mpunkt_tab[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('punkt_tab')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtokenizers/punkt_tab/english/[0m
+
+  Searched in:
+    - 'C:\\Users\\sneha/nltk_data'
+    - 'C:\\Users\\sneha\\anaconda3\\nltk_data'
+    - 'C:\\Users\\sneha\\anaconda3\\share\\nltk_data'
+    - 'C:\\Users\\sneha\\anaconda3\\lib\\nltk_data'
+    - 'C:\\Users\\sneha\\AppData\\Roaming\\nltk_data'
+    - 'C:\\nltk_data'
+    - 'D:\\nltk_data'
+    - 'E:\\nltk_data'
+**********************************************************************
+
+2025-11-24 20:15:37,006 - data_preprocessing - ERROR - Failed to complete the data transformation process: 
+**********************************************************************
+  Resource [93mpunkt_tab[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('punkt_tab')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtokenizers/punkt_tab/english/[0m
+
+  Searched in:
+    - 'C:\\Users\\sneha/nltk_data'
+    - 'C:\\Users\\sneha\\anaconda3\\nltk_data'
+    - 'C:\\Users\\sneha\\anaconda3\\share\\nltk_data'
+    - 'C:\\Users\\sneha\\anaconda3\\lib\\nltk_data'
+    - 'C:\\Users\\sneha\\AppData\\Roaming\\nltk_data'
+    - 'C:\\nltk_data'
+    - 'D:\\nltk_data'
+    - 'E:\\nltk_data'
+**********************************************************************
+
+2025-11-24 20:16:02,366 - data_preprocessing - DEBUG - Data loaded properly
+2025-11-24 20:16:02,367 - data_preprocessing - DEBUG - Starting preprocessing for DataFrame
+2025-11-24 20:16:02,370 - data_preprocessing - DEBUG - Target column encoded
+2025-11-24 20:16:02,376 - data_preprocessing - DEBUG - Duplicates removed
+2025-11-24 20:16:02,382 - data_preprocessing - ERROR - Error during text normalization: 
+**********************************************************************
+  Resource [93mpunkt_tab[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('punkt_tab')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtokenizers/punkt_tab/english/[0m
+
+  Searched in:
+    - 'C:\\Users\\sneha/nltk_data'
+    - 'C:\\Users\\sneha\\anaconda3\\nltk_data'
+    - 'C:\\Users\\sneha\\anaconda3\\share\\nltk_data'
+    - 'C:\\Users\\sneha\\anaconda3\\lib\\nltk_data'
+    - 'C:\\Users\\sneha\\AppData\\Roaming\\nltk_data'
+    - 'C:\\nltk_data'
+    - 'D:\\nltk_data'
+    - 'E:\\nltk_data'
+**********************************************************************
+
+2025-11-24 20:16:02,384 - data_preprocessing - ERROR - Failed to complete the data transformation process: 
+**********************************************************************
+  Resource [93mpunkt_tab[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('punkt_tab')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtokenizers/punkt_tab/english/[0m
+
+  Searched in:
+    - 'C:\\Users\\sneha/nltk_data'
+    - 'C:\\Users\\sneha\\anaconda3\\nltk_data'
+    - 'C:\\Users\\sneha\\anaconda3\\share\\nltk_data'
+    - 'C:\\Users\\sneha\\anaconda3\\lib\\nltk_data'
+    - 'C:\\Users\\sneha\\AppData\\Roaming\\nltk_data'
+    - 'C:\\nltk_data'
+    - 'D:\\nltk_data'
+    - 'E:\\nltk_data'
+**********************************************************************
+
+2025-11-24 20:19:08,977 - data_preprocessing - DEBUG - Data loaded properly
+2025-11-24 20:19:08,977 - data_preprocessing - DEBUG - Starting preprocessing for DataFrame
+2025-11-24 20:19:08,979 - data_preprocessing - DEBUG - Target column encoded
+2025-11-24 20:19:08,983 - data_preprocessing - DEBUG - Duplicates removed
+2025-11-24 20:19:08,986 - data_preprocessing - ERROR - Error during text normalization: 
+**********************************************************************
+  Resource [93mpunkt_tab[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('punkt_tab')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtokenizers/punkt_tab/english/[0m
+
+  Searched in:
+    - 'C:\\Users\\sneha/nltk_data'
+    - 'C:\\Users\\sneha\\anaconda3\\nltk_data'
+    - 'C:\\Users\\sneha\\anaconda3\\share\\nltk_data'
+    - 'C:\\Users\\sneha\\anaconda3\\lib\\nltk_data'
+    - 'C:\\Users\\sneha\\AppData\\Roaming\\nltk_data'
+    - 'C:\\nltk_data'
+    - 'D:\\nltk_data'
+    - 'E:\\nltk_data'
+**********************************************************************
+
+2025-11-24 20:19:08,987 - data_preprocessing - ERROR - Failed to complete the data transformation process: 
+**********************************************************************
+  Resource [93mpunkt_tab[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('punkt_tab')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtokenizers/punkt_tab/english/[0m
+
+  Searched in:
+    - 'C:\\Users\\sneha/nltk_data'
+    - 'C:\\Users\\sneha\\anaconda3\\nltk_data'
+    - 'C:\\Users\\sneha\\anaconda3\\share\\nltk_data'
+    - 'C:\\Users\\sneha\\anaconda3\\lib\\nltk_data'
+    - 'C:\\Users\\sneha\\AppData\\Roaming\\nltk_data'
+    - 'C:\\nltk_data'
+    - 'D:\\nltk_data'
+    - 'E:\\nltk_data'
+**********************************************************************
+
+2025-11-25 22:01:25,615 - data_preprocessing - DEBUG - Data loaded properly
+2025-11-25 22:01:25,618 - data_preprocessing - DEBUG - Starting preprocessing for DataFrame
+2025-11-25 22:01:25,621 - data_preprocessing - DEBUG - Target column encoded
+2025-11-25 22:01:25,632 - data_preprocessing - DEBUG - Duplicates removed
+2025-11-25 22:01:25,635 - data_preprocessing - ERROR - Error during text normalization: 
+**********************************************************************
+  Resource [93mpunkt_tab[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('punkt_tab')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtokenizers/punkt_tab/english/[0m
+
+  Searched in:
+    - 'C:\\Users\\sneha/nltk_data'
+    - 'C:\\Users\\sneha\\anaconda3\\nltk_data'
+    - 'C:\\Users\\sneha\\anaconda3\\share\\nltk_data'
+    - 'C:\\Users\\sneha\\anaconda3\\lib\\nltk_data'
+    - 'C:\\Users\\sneha\\AppData\\Roaming\\nltk_data'
+    - 'C:\\nltk_data'
+    - 'D:\\nltk_data'
+    - 'E:\\nltk_data'
+**********************************************************************
+
+2025-11-25 22:01:25,636 - data_preprocessing - ERROR - Failed to complete the data transformation process: 
+**********************************************************************
+  Resource [93mpunkt_tab[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('punkt_tab')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtokenizers/punkt_tab/english/[0m
+
+  Searched in:
+    - 'C:\\Users\\sneha/nltk_data'
+    - 'C:\\Users\\sneha\\anaconda3\\nltk_data'
+    - 'C:\\Users\\sneha\\anaconda3\\share\\nltk_data'
+    - 'C:\\Users\\sneha\\anaconda3\\lib\\nltk_data'
+    - 'C:\\Users\\sneha\\AppData\\Roaming\\nltk_data'
+    - 'C:\\nltk_data'
+    - 'D:\\nltk_data'
+    - 'E:\\nltk_data'
+**********************************************************************
+
+2025-11-25 22:04:48,483 - data_preprocessing - DEBUG - Data loaded properly
+2025-11-25 22:04:48,484 - data_preprocessing - DEBUG - Starting preprocessing for DataFrame
+2025-11-25 22:04:48,486 - data_preprocessing - DEBUG - Target column encoded
+2025-11-25 22:04:48,489 - data_preprocessing - DEBUG - Duplicates removed
+2025-11-25 22:04:48,492 - data_preprocessing - ERROR - Error during text normalization: 
+**********************************************************************
+  Resource [93mpunkt_tab[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('punkt_tab')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtokenizers/punkt_tab/english/[0m
+
+  Searched in:
+    - 'C:\\Users\\sneha/nltk_data'
+    - 'C:\\Users\\sneha\\anaconda3\\nltk_data'
+    - 'C:\\Users\\sneha\\anaconda3\\share\\nltk_data'
+    - 'C:\\Users\\sneha\\anaconda3\\lib\\nltk_data'
+    - 'C:\\Users\\sneha\\AppData\\Roaming\\nltk_data'
+    - 'C:\\nltk_data'
+    - 'D:\\nltk_data'
+    - 'E:\\nltk_data'
+**********************************************************************
+
+2025-11-25 22:04:48,492 - data_preprocessing - ERROR - Failed to complete the data transformation process: 
+**********************************************************************
+  Resource [93mpunkt_tab[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('punkt_tab')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtokenizers/punkt_tab/english/[0m
+
+  Searched in:
+    - 'C:\\Users\\sneha/nltk_data'
+    - 'C:\\Users\\sneha\\anaconda3\\nltk_data'
+    - 'C:\\Users\\sneha\\anaconda3\\share\\nltk_data'
+    - 'C:\\Users\\sneha\\anaconda3\\lib\\nltk_data'
+    - 'C:\\Users\\sneha\\AppData\\Roaming\\nltk_data'
+    - 'C:\\nltk_data'
+    - 'D:\\nltk_data'
+    - 'E:\\nltk_data'
+**********************************************************************
+
+2025-11-25 22:20:15,059 - data_preprocessing - DEBUG - Data loaded properly
+2025-11-25 22:20:15,060 - data_preprocessing - DEBUG - Starting preprocessing for DataFrame
+2025-11-25 22:20:15,061 - data_preprocessing - DEBUG - Target column encoded
+2025-11-25 22:20:15,064 - data_preprocessing - DEBUG - Duplicates removed
+2025-11-25 22:20:15,067 - data_preprocessing - ERROR - Error during text normalization: 
+**********************************************************************
+  Resource [93mpunkt_tab[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('punkt_tab')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtokenizers/punkt_tab/english/[0m
+
+  Searched in:
+    - 'C:\\Users\\sneha/nltk_data'
+    - 'C:\\Users\\sneha\\anaconda3\\nltk_data'
+    - 'C:\\Users\\sneha\\anaconda3\\share\\nltk_data'
+    - 'C:\\Users\\sneha\\anaconda3\\lib\\nltk_data'
+    - 'C:\\Users\\sneha\\AppData\\Roaming\\nltk_data'
+    - 'C:\\nltk_data'
+    - 'D:\\nltk_data'
+    - 'E:\\nltk_data'
+**********************************************************************
+
+2025-11-25 22:20:15,068 - data_preprocessing - ERROR - Failed to complete the data transformation process: 
+**********************************************************************
+  Resource [93mpunkt_tab[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('punkt_tab')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtokenizers/punkt_tab/english/[0m
+
+  Searched in:
+    - 'C:\\Users\\sneha/nltk_data'
+    - 'C:\\Users\\sneha\\anaconda3\\nltk_data'
+    - 'C:\\Users\\sneha\\anaconda3\\share\\nltk_data'
+    - 'C:\\Users\\sneha\\anaconda3\\lib\\nltk_data'
+    - 'C:\\Users\\sneha\\AppData\\Roaming\\nltk_data'
+    - 'C:\\nltk_data'
+    - 'D:\\nltk_data'
+    - 'E:\\nltk_data'
+**********************************************************************
+
+2025-11-25 22:22:20,169 - data_preprocessing - DEBUG - Data loaded properly
+2025-11-25 22:22:20,169 - data_preprocessing - DEBUG - Starting preprocessing for DataFrame
+2025-11-25 22:22:20,171 - data_preprocessing - DEBUG - Target column encoded
+2025-11-25 22:22:20,174 - data_preprocessing - DEBUG - Duplicates removed
+2025-11-25 22:22:20,176 - data_preprocessing - ERROR - Error during text normalization: 
+**********************************************************************
+  Resource [93mpunkt_tab[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('punkt_tab')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtokenizers/punkt_tab/english/[0m
+
+  Searched in:
+    - 'C:\\Users\\sneha/nltk_data'
+    - 'C:\\Users\\sneha\\anaconda3\\nltk_data'
+    - 'C:\\Users\\sneha\\anaconda3\\share\\nltk_data'
+    - 'C:\\Users\\sneha\\anaconda3\\lib\\nltk_data'
+    - 'C:\\Users\\sneha\\AppData\\Roaming\\nltk_data'
+    - 'C:\\nltk_data'
+    - 'D:\\nltk_data'
+    - 'E:\\nltk_data'
+**********************************************************************
+
+2025-11-25 22:22:20,177 - data_preprocessing - ERROR - Failed to complete the data transformation process: 
+**********************************************************************
+  Resource [93mpunkt_tab[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('punkt_tab')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtokenizers/punkt_tab/english/[0m
+
+  Searched in:
+    - 'C:\\Users\\sneha/nltk_data'
+    - 'C:\\Users\\sneha\\anaconda3\\nltk_data'
+    - 'C:\\Users\\sneha\\anaconda3\\share\\nltk_data'
+    - 'C:\\Users\\sneha\\anaconda3\\lib\\nltk_data'
+    - 'C:\\Users\\sneha\\AppData\\Roaming\\nltk_data'
+    - 'C:\\nltk_data'
+    - 'D:\\nltk_data'
+    - 'E:\\nltk_data'
+**********************************************************************
+
+2025-11-25 22:27:18,085 - data_preprocessing - DEBUG - Data loaded properly
+2025-11-25 22:27:18,086 - data_preprocessing - DEBUG - Starting preprocessing for DataFrame
+2025-11-25 22:27:18,090 - data_preprocessing - DEBUG - Target column encoded
+2025-11-25 22:27:18,098 - data_preprocessing - DEBUG - Duplicates removed
+2025-11-25 22:27:18,105 - data_preprocessing - ERROR - Error during text normalization: 
+**********************************************************************
+  Resource [93mpunkt_tab[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('punkt_tab')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtokenizers/punkt_tab/english/[0m
+
+  Searched in:
+    - 'C:\\Users\\sneha/nltk_data'
+    - 'C:\\Users\\sneha\\anaconda3\\nltk_data'
+    - 'C:\\Users\\sneha\\anaconda3\\share\\nltk_data'
+    - 'C:\\Users\\sneha\\anaconda3\\lib\\nltk_data'
+    - 'C:\\Users\\sneha\\AppData\\Roaming\\nltk_data'
+    - 'C:\\nltk_data'
+    - 'D:\\nltk_data'
+    - 'E:\\nltk_data'
+**********************************************************************
+
+2025-11-25 22:27:18,106 - data_preprocessing - ERROR - Failed to complete the data transformation process: 
+**********************************************************************
+  Resource [93mpunkt_tab[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('punkt_tab')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtokenizers/punkt_tab/english/[0m
+
+  Searched in:
+    - 'C:\\Users\\sneha/nltk_data'
+    - 'C:\\Users\\sneha\\anaconda3\\nltk_data'
+    - 'C:\\Users\\sneha\\anaconda3\\share\\nltk_data'
+    - 'C:\\Users\\sneha\\anaconda3\\lib\\nltk_data'
+    - 'C:\\Users\\sneha\\AppData\\Roaming\\nltk_data'
+    - 'C:\\nltk_data'
+    - 'D:\\nltk_data'
+    - 'E:\\nltk_data'
+**********************************************************************
+
+2025-11-25 22:28:32,424 - data_preprocessing - DEBUG - Data loaded properly
+2025-11-25 22:28:32,425 - data_preprocessing - DEBUG - Starting preprocessing for DataFrame
+2025-11-25 22:28:32,428 - data_preprocessing - DEBUG - Target column encoded
+2025-11-25 22:28:32,436 - data_preprocessing - DEBUG - Duplicates removed
+2025-11-25 22:28:32,444 - data_preprocessing - ERROR - Error during text normalization: 
+**********************************************************************
+  Resource [93mpunkt_tab[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('punkt_tab')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtokenizers/punkt_tab/english/[0m
+
+  Searched in:
+    - 'C:\\Users\\sneha/nltk_data'
+    - 'C:\\Users\\sneha\\anaconda3\\nltk_data'
+    - 'C:\\Users\\sneha\\anaconda3\\share\\nltk_data'
+    - 'C:\\Users\\sneha\\anaconda3\\lib\\nltk_data'
+    - 'C:\\Users\\sneha\\AppData\\Roaming\\nltk_data'
+    - 'C:\\nltk_data'
+    - 'D:\\nltk_data'
+    - 'E:\\nltk_data'
+**********************************************************************
+
+2025-11-25 22:28:32,445 - data_preprocessing - ERROR - Failed to complete the data transformation process: 
+**********************************************************************
+  Resource [93mpunkt_tab[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('punkt_tab')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtokenizers/punkt_tab/english/[0m
+
+  Searched in:
+    - 'C:\\Users\\sneha/nltk_data'
+    - 'C:\\Users\\sneha\\anaconda3\\nltk_data'
+    - 'C:\\Users\\sneha\\anaconda3\\share\\nltk_data'
+    - 'C:\\Users\\sneha\\anaconda3\\lib\\nltk_data'
+    - 'C:\\Users\\sneha\\AppData\\Roaming\\nltk_data'
+    - 'C:\\nltk_data'
+    - 'D:\\nltk_data'
+    - 'E:\\nltk_data'
+**********************************************************************
+
+2025-11-25 22:36:53,190 - data_preprocessing - DEBUG - Data loaded properly
+2025-11-25 22:36:53,191 - data_preprocessing - DEBUG - Starting preprocessing for DataFrame
+2025-11-25 22:36:53,194 - data_preprocessing - DEBUG - Target column encoded
+2025-11-25 22:36:53,202 - data_preprocessing - DEBUG - Duplicates removed
+2025-11-25 22:36:53,206 - data_preprocessing - ERROR - Error during text normalization: 
+**********************************************************************
+  Resource [93mpunkt_tab[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('punkt_tab')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtokenizers/punkt_tab/english/[0m
+
+  Searched in:
+    - 'C:\\Users\\sneha/nltk_data'
+    - 'C:\\Users\\sneha\\anaconda3\\nltk_data'
+    - 'C:\\Users\\sneha\\anaconda3\\share\\nltk_data'
+    - 'C:\\Users\\sneha\\anaconda3\\lib\\nltk_data'
+    - 'C:\\Users\\sneha\\AppData\\Roaming\\nltk_data'
+    - 'C:\\nltk_data'
+    - 'D:\\nltk_data'
+    - 'E:\\nltk_data'
+**********************************************************************
+
+2025-11-25 22:36:53,207 - data_preprocessing - ERROR - Failed to complete the data transformation process: 
+**********************************************************************
+  Resource [93mpunkt_tab[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('punkt_tab')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtokenizers/punkt_tab/english/[0m
+
+  Searched in:
+    - 'C:\\Users\\sneha/nltk_data'
+    - 'C:\\Users\\sneha\\anaconda3\\nltk_data'
+    - 'C:\\Users\\sneha\\anaconda3\\share\\nltk_data'
+    - 'C:\\Users\\sneha\\anaconda3\\lib\\nltk_data'
+    - 'C:\\Users\\sneha\\AppData\\Roaming\\nltk_data'
+    - 'C:\\nltk_data'
+    - 'D:\\nltk_data'
+    - 'E:\\nltk_data'
+**********************************************************************
+
+2025-11-25 22:37:25,192 - data_preprocessing - DEBUG - Data loaded properly
+2025-11-25 22:37:25,193 - data_preprocessing - DEBUG - Starting preprocessing for DataFrame
+2025-11-25 22:37:25,198 - data_preprocessing - DEBUG - Target column encoded
+2025-11-25 22:37:25,204 - data_preprocessing - DEBUG - Duplicates removed
+2025-11-25 22:37:25,207 - data_preprocessing - ERROR - Error during text normalization: 
+**********************************************************************
+  Resource [93mpunkt_tab[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('punkt_tab')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtokenizers/punkt_tab/english/[0m
+
+  Searched in:
+    - 'C:\\Users\\sneha/nltk_data'
+    - 'C:\\Users\\sneha\\anaconda3\\nltk_data'
+    - 'C:\\Users\\sneha\\anaconda3\\share\\nltk_data'
+    - 'C:\\Users\\sneha\\anaconda3\\lib\\nltk_data'
+    - 'C:\\Users\\sneha\\AppData\\Roaming\\nltk_data'
+    - 'C:\\nltk_data'
+    - 'D:\\nltk_data'
+    - 'E:\\nltk_data'
+**********************************************************************
+
+2025-11-25 22:37:25,208 - data_preprocessing - ERROR - Failed to complete the data transformation process: 
+**********************************************************************
+  Resource [93mpunkt_tab[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('punkt_tab')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtokenizers/punkt_tab/english/[0m
+
+  Searched in:
+    - 'C:\\Users\\sneha/nltk_data'
+    - 'C:\\Users\\sneha\\anaconda3\\nltk_data'
+    - 'C:\\Users\\sneha\\anaconda3\\share\\nltk_data'
+    - 'C:\\Users\\sneha\\anaconda3\\lib\\nltk_data'
+    - 'C:\\Users\\sneha\\AppData\\Roaming\\nltk_data'
+    - 'C:\\nltk_data'
+    - 'D:\\nltk_data'
+    - 'E:\\nltk_data'
+**********************************************************************
+
+2025-11-25 22:39:00,723 - data_preprocessing - DEBUG - Data loaded properly
+2025-11-25 22:39:00,724 - data_preprocessing - DEBUG - Starting preprocessing for DataFrame
+2025-11-25 22:39:00,727 - data_preprocessing - DEBUG - Target column encoded
+2025-11-25 22:39:00,734 - data_preprocessing - DEBUG - Duplicates removed
+2025-11-25 22:39:00,739 - data_preprocessing - ERROR - Error during text normalization: 
+**********************************************************************
+  Resource [93mpunkt_tab[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('punkt_tab')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtokenizers/punkt_tab/english/[0m
+
+  Searched in:
+    - 'C:\\Users\\sneha/nltk_data'
+    - 'C:\\Users\\sneha\\anaconda3\\nltk_data'
+    - 'C:\\Users\\sneha\\anaconda3\\share\\nltk_data'
+    - 'C:\\Users\\sneha\\anaconda3\\lib\\nltk_data'
+    - 'C:\\Users\\sneha\\AppData\\Roaming\\nltk_data'
+    - 'C:\\nltk_data'
+    - 'D:\\nltk_data'
+    - 'E:\\nltk_data'
+**********************************************************************
+
+2025-11-25 22:39:00,740 - data_preprocessing - ERROR - Failed to complete the data transformation process: 
+**********************************************************************
+  Resource [93mpunkt_tab[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('punkt_tab')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtokenizers/punkt_tab/english/[0m
+
+  Searched in:
+    - 'C:\\Users\\sneha/nltk_data'
+    - 'C:\\Users\\sneha\\anaconda3\\nltk_data'
+    - 'C:\\Users\\sneha\\anaconda3\\share\\nltk_data'
+    - 'C:\\Users\\sneha\\anaconda3\\lib\\nltk_data'
+    - 'C:\\Users\\sneha\\AppData\\Roaming\\nltk_data'
+    - 'C:\\nltk_data'
+    - 'D:\\nltk_data'
+    - 'E:\\nltk_data'
+**********************************************************************
+
+2025-11-25 22:40:59,429 - data_preprocessing - DEBUG - Data loaded properly
+2025-11-25 22:40:59,429 - data_preprocessing - DEBUG - Starting preprocessing for DataFrame
+2025-11-25 22:40:59,433 - data_preprocessing - DEBUG - Target column encoded
+2025-11-25 22:40:59,438 - data_preprocessing - DEBUG - Duplicates removed
+2025-11-25 22:41:13,507 - data_preprocessing - DEBUG - Text column transformed
+2025-11-25 22:41:13,508 - data_preprocessing - DEBUG - Starting preprocessing for DataFrame
+2025-11-25 22:41:13,509 - data_preprocessing - DEBUG - Target column encoded
+2025-11-25 22:41:13,511 - data_preprocessing - DEBUG - Duplicates removed
+2025-11-25 22:41:17,257 - data_preprocessing - DEBUG - Text column transformed
+2025-11-25 22:41:17,268 - data_preprocessing - DEBUG - Processed data saved to ./data\interim
+2025-11-25 22:41:39,382 - data_preprocessing - DEBUG - Data loaded properly
+2025-11-25 22:41:39,383 - data_preprocessing - DEBUG - Starting preprocessing for DataFrame
+2025-11-25 22:41:39,385 - data_preprocessing - DEBUG - Target column encoded
+2025-11-25 22:41:39,389 - data_preprocessing - DEBUG - Duplicates removed
+2025-11-25 22:41:52,054 - data_preprocessing - DEBUG - Text column transformed
+2025-11-25 22:41:52,055 - data_preprocessing - DEBUG - Starting preprocessing for DataFrame
+2025-11-25 22:41:52,056 - data_preprocessing - DEBUG - Target column encoded
+2025-11-25 22:41:52,058 - data_preprocessing - DEBUG - Duplicates removed
+2025-11-25 22:41:55,268 - data_preprocessing - DEBUG - Text column transformed
+2025-11-25 22:41:55,278 - data_preprocessing - DEBUG - Processed data saved to ./data\interim

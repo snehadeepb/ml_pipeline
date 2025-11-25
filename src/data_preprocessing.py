@@ -8,6 +8,7 @@ import string
 import nltk
 nltk.download('stopwords')
 nltk.download('punkt')
+nltk.download('punkt_tab')
 
 # Ensure the "logs" directory exists
 log_dir = 'logs'
@@ -80,7 +81,8 @@ def main(text_column='text', target_column='target'):
     """
     Main function to load raw data, preprocess it, and save the processed data.
     """
-    try:
+    try: 
+        print('sdfdfdf')
         # Fetch the data from data/raw
         train_data = pd.read_csv('./data/raw/train.csv')
         test_data = pd.read_csv('./data/raw/test.csv')

@@ -14,3 +14,27 @@
 2025-11-23 11:12:50,402 - feature_engineering - DEBUG - tfidf applied and data transformed
 2025-11-23 11:12:50,580 - feature_engineering - DEBUG - Data saved to ./data\processed\train_tfidf.csv
 2025-11-23 11:12:50,630 - feature_engineering - DEBUG - Data saved to ./data\processed\test_tfidf.csv
+2025-11-25 22:44:56,970 - feature_engineering - DEBUG - Parameters retrieved from params.yaml
+2025-11-25 22:44:57,008 - feature_engineering - ERROR - Unexpected error occurred while loading the data: [Errno 2] No such file or directory: './data/raw/interim/train.csv'
+2025-11-25 22:44:57,009 - feature_engineering - ERROR - Failed to complete the feature engineering process: [Errno 2] No such file or directory: './data/raw/interim/train.csv'
+2025-11-25 22:45:51,068 - feature_engineering - DEBUG - Parameters retrieved from params.yaml
+2025-11-25 22:45:51,077 - feature_engineering - ERROR - Unexpected error occurred while loading the data: [Errno 2] No such file or directory: './data/interim/train.csv'
+2025-11-25 22:45:51,078 - feature_engineering - ERROR - Failed to complete the feature engineering process: [Errno 2] No such file or directory: './data/interim/train.csv'
+2025-11-25 22:47:07,710 - feature_engineering - DEBUG - Parameters retrieved from params.yaml
+2025-11-25 22:47:07,736 - feature_engineering - DEBUG - Data loaded and NaNs filled from ./data/raw/train.csv
+2025-11-25 22:47:07,743 - feature_engineering - DEBUG - Data loaded and NaNs filled from ./data/raw/test.csv
+2025-11-25 22:47:07,932 - feature_engineering - DEBUG - tfidf applied and data transformed
+2025-11-25 22:47:08,055 - feature_engineering - DEBUG - Data saved to ./data\processed\train_tfidf.csv
+2025-11-25 22:47:08,086 - feature_engineering - DEBUG - Data saved to ./data\processed\test_tfidf.csv
+2025-11-25 22:47:22,933 - feature_engineering - DEBUG - Parameters retrieved from params.yaml
+2025-11-25 22:47:22,961 - feature_engineering - DEBUG - Data loaded and NaNs filled from ./data/raw/train.csv
+2025-11-25 22:47:22,968 - feature_engineering - DEBUG - Data loaded and NaNs filled from ./data/raw/test.csv
+2025-11-25 22:47:23,098 - feature_engineering - DEBUG - tfidf applied and data transformed
+2025-11-25 22:47:23,196 - feature_engineering - DEBUG - Data saved to ./data\processed\train_tfidf.csv
+2025-11-25 22:47:23,224 - feature_engineering - DEBUG - Data saved to ./data\processed\test_tfidf.csv
+2025-11-25 22:59:42,231 - feature_engineering - DEBUG - Parameters retrieved from params.yaml
+2025-11-25 22:59:42,258 - feature_engineering - DEBUG - Data loaded and NaNs filled from ./data/raw/train.csv
+2025-11-25 22:59:42,267 - feature_engineering - DEBUG - Data loaded and NaNs filled from ./data/raw/test.csv
+2025-11-25 22:59:42,393 - feature_engineering - DEBUG - tfidf applied and data transformed
+2025-11-25 22:59:42,528 - feature_engineering - DEBUG - Data saved to ./data\processed\train_tfidf.csv
+2025-11-25 22:59:42,571 - feature_engineering - DEBUG - Data saved to ./data\processed\test_tfidf.csv

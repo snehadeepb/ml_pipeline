@@ -5,3 +5,28 @@
 2025-11-22 19:14:27,681 - data_ingestion - DEBUG - Data loaded from https://raw.githubusercontent.com/vikashishere/YT-MLOPS-Complete-ML-Pipeline/refs/heads/main/experiments/spam.csv
 2025-11-22 19:14:27,723 - data_ingestion - DEBUG - Data preprocessing completed
 2025-11-22 19:14:27,774 - data_ingestion - DEBUG - Train and test data saved to ./data\raw
+2025-11-24 19:08:52,636 - data_ingestion - DEBUG - Data loaded from https://raw.githubusercontent.com/vikashishere/YT-MLOPS-Complete-ML-Pipeline/refs/heads/main/experiments/spam.csv
+2025-11-24 19:08:52,653 - data_ingestion - DEBUG - Data preprocessing completed
+2025-11-24 19:08:52,695 - data_ingestion - DEBUG - Train and test data saved to ./data\raw
+2025-11-24 19:31:03,080 - data_ingestion - DEBUG - Data loaded from https://raw.githubusercontent.com/vikashishere/YT-MLOPS-Complete-ML-Pipeline/refs/heads/main/experiments/spam.csv
+2025-11-24 19:31:03,083 - data_ingestion - DEBUG - Data preprocessing completed
+2025-11-24 19:31:03,111 - data_ingestion - DEBUG - Train and test data saved to ./data\raw
+2025-11-24 19:31:23,405 - data_ingestion - DEBUG - Data loaded from https://raw.githubusercontent.com/vikashishere/YT-MLOPS-Complete-ML-Pipeline/refs/heads/main/experiments/spam.csv
+2025-11-24 19:31:23,409 - data_ingestion - DEBUG - Data preprocessing completed
+2025-11-24 19:31:23,452 - data_ingestion - DEBUG - Train and test data saved to ./data\raw
+2025-11-24 19:53:05,040 - data_ingestion - DEBUG - Parameters retrieved from params.yaml
+2025-11-24 19:53:05,575 - data_ingestion - DEBUG - Data loaded from https://raw.githubusercontent.com/vikashishere/YT-MLOPS-Complete-ML-Pipeline/refs/heads/main/experiments/spam.csv
+2025-11-24 19:53:05,579 - data_ingestion - DEBUG - Data preprocessing completed
+2025-11-24 19:53:05,627 - data_ingestion - DEBUG - Train and test data saved to ./data\raw
+2025-11-24 20:00:02,302 - data_ingestion - DEBUG - Parameters retrieved from params.yaml
+2025-11-24 20:00:02,834 - data_ingestion - DEBUG - Data loaded from https://raw.githubusercontent.com/vikashishere/YT-MLOPS-Complete-ML-Pipeline/refs/heads/main/experiments/spam.csv
+2025-11-24 20:00:02,837 - data_ingestion - DEBUG - Data preprocessing completed
+2025-11-24 20:00:02,865 - data_ingestion - DEBUG - Train and test data saved to ./data\raw
+2025-11-25 22:00:39,270 - data_ingestion - DEBUG - Parameters retrieved from params.yaml
+2025-11-25 22:00:43,121 - data_ingestion - DEBUG - Data loaded from https://raw.githubusercontent.com/vikashishere/YT-MLOPS-Complete-ML-Pipeline/refs/heads/main/experiments/spam.csv
+2025-11-25 22:00:43,134 - data_ingestion - DEBUG - Data preprocessing completed
+2025-11-25 22:00:43,176 - data_ingestion - DEBUG - Train and test data saved to ./data\raw
+2025-11-25 22:38:26,511 - data_ingestion - DEBUG - Parameters retrieved from params.yaml
+2025-11-25 22:38:28,853 - data_ingestion - DEBUG - Data loaded from https://raw.githubusercontent.com/vikashishere/YT-MLOPS-Complete-ML-Pipeline/refs/heads/main/experiments/spam.csv
+2025-11-25 22:38:28,856 - data_ingestion - DEBUG - Data preprocessing completed
+2025-11-25 22:38:28,887 - data_ingestion - DEBUG - Train and test data saved to ./data\raw

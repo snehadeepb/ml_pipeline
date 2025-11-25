@@ -3,3 +3,15 @@
 2025-11-23 11:25:04,127 - model_building - DEBUG - Model training started with 4457 samples
 2025-11-23 11:25:04,406 - model_building - DEBUG - Model training completed
 2025-11-23 11:25:04,453 - model_building - DEBUG - Model saved to models/model.pkl
+2025-11-25 23:01:47,318 - model_building - DEBUG - Parameters retrieved from params.yaml
+2025-11-25 23:01:47,360 - model_building - DEBUG - Data loaded from ./data/processed/train_tfidf.csv with shape (4457, 36)
+2025-11-25 23:01:47,365 - model_building - DEBUG - Initializing RandomForest model with parameters: {'n_estimators': 22, 'random_state': 2}
+2025-11-25 23:01:47,366 - model_building - DEBUG - Model training started with 4457 samples
+2025-11-25 23:01:47,573 - model_building - DEBUG - Model training completed
+2025-11-25 23:01:47,606 - model_building - DEBUG - Model saved to models/model.pkl
+2025-11-25 23:03:41,097 - model_building - DEBUG - Parameters retrieved from params.yaml
+2025-11-25 23:03:41,119 - model_building - DEBUG - Data loaded from ./data/processed/train_tfidf.csv with shape (4457, 36)
+2025-11-25 23:03:41,122 - model_building - DEBUG - Initializing RandomForest model with parameters: {'n_estimators': 22, 'random_state': 2}
+2025-11-25 23:03:41,122 - model_building - DEBUG - Model training started with 4457 samples
+2025-11-25 23:03:41,302 - model_building - DEBUG - Model training completed
+2025-11-25 23:03:41,306 - model_building - DEBUG - Model saved to models/model.pkl
